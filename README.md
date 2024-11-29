@@ -23,14 +23,6 @@ A modern web application built with React for managing employee training program
   - Monitor progress and compliance
   - Search and filter training records
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
 
 ## Technology Stack
 
@@ -42,6 +34,13 @@ A modern web application built with React for managing employee training program
 - Local Storage for data persistence
 - Vite for build tooling
 
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
 ## License
 
